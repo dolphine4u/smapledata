@@ -1,7 +1,7 @@
 {
   "addressBook":[
     {
-      "addressType":"Default",
+      "addressType":"default",
       "addressList":[
         {
           "FirstName":"Jhon",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "addressType":"Account address",
+      "addressType":"account",
       "addressList":[
         {
           "FirstName":"Geoff",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "addressType":"Direct address",
+      "addressType":"direct",
       "addressList":[
         {
           "FirstName":"Tom",
