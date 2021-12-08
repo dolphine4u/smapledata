@@ -1,0 +1,84 @@
+{
+  "addressBook":[
+    {
+      "addressType":"Default",
+      "addressList":[
+        {
+          "FirstName":"Jhon",
+          "LastName":"Smith",
+          "EmailAddress":"john@smithsfixing.co.uk",
+          "PhoneNumber":"07894524156",
+          "Company":"Simths Fixing Ltd",
+          "Address1":"Green Lane",
+          "Address2":"",
+          "City":"Nantwich",
+          "Postcode":"CW5 6BJ",
+          "County":"",
+          "Country":"United Kingdom"
+        }
+      ]
+    },
+    {
+      "addressType":"Account address",
+      "addressList":[
+        {
+          "FirstName":"Geoff",
+          "LastName":"Bailey",
+          "EmailAddress":"geoff.bailey@timco.co.uk",
+          "PhoneNumber":"07497653567",
+          "Company":"",
+          "Address1":"Rosscliffe Road",
+          "Address2":"Ellesmere Port",
+          "City":"Nantwich",
+          "Postcode":"CH65 3AT",
+          "County":"",
+          "Country":"United Kingdom"
+        },
+        {
+          "FirstName":"Dave",
+          "LastName":"Thompson",
+          "EmailAddress":"d.thompson@timco.co.uk",
+          "PhoneNumber":"01925658700",
+          "Company":"Wellington Street Workshops",
+          "Address1":"Warrington",
+          "Address2":"",
+          "City":"Cheshire",
+          "Postcode":"WA1 2DB",
+          "County":"",
+          "Country":"United Kingdom"
+        }
+      ]
+    },
+    {
+      "addressType":"Direct address",
+      "addressList":[
+        {
+          "FirstName":"Tom",
+          "LastName":"Reed",
+          "EmailAddress":"geoff.bailey@.co.uk",
+          "PhoneNumber":"07894524156",
+          "Company":"E C A Supplies",
+          "Address1":"Unit 1 Leek New Road",
+          "Address2":"",
+          "City":"Stoke-on-Trent",
+          "Postcode":"ST1 5DF",
+          "County":"",
+          "Country":"United Kingdom"
+        },
+        {
+          "FirstName":"Kevin",
+          "LastName":"Lowe",
+          "EmailAddress":"simon.rance@timco.co.uk",
+          "PhoneNumber":"077778459654",
+          "Company":"Lester Lowe Ltd",
+          "Address1":"Breck Farm",
+          "Address2":"Kniveton",
+          "City":"Ashbourne",
+          "Postcode":"DE6 1JF",
+          "County":"",
+          "Country":"United Kingdom"
+        }
+      ]
+    }
+  ]
+}
